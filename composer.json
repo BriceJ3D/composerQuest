@@ -1,0 +1,12 @@
+{
+    "name": "wilder13/composer",
+    "authors": [
+        {
+            "name": "Brice Jaugin",
+            "email": "syara.legnome@gmail.com"
+        }
+    ],
+    "require": {
+        "ehime/hello-world": "^1.0"
+    }
+}
